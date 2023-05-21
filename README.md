@@ -1,3 +1,6 @@
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+
+
 # demoHtml
 A Demo HTML Site from the Computing Fundamentals Course
 
@@ -5,4 +8,3 @@ A Demo HTML Site from the Computing Fundamentals Course
 Dennis Devey
 Not my name cause why would I do that
 
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
